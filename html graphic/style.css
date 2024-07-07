@@ -1,0 +1,36 @@
+
+h1 {
+    color: blue;
+}
+h3 {
+    color: brown;
+}
+h4 { 
+  background-color:greenyellow;
+}
+#edit {
+    image-rendering:crisp-edges;
+}
+#survice {
+    width: 150px;
+}
+#mypic {
+   width: 240px; 
+}
+#design {
+    text-align: center;
+    color: red;
+    background-color: chartreuse;
+}
+#otherinfo {
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+#info {
+    color: brown;
+}
+#number {
+    color: green;
+}
